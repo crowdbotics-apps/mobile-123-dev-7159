@@ -6,7 +6,6 @@ import SplashScreen from "../features/SplashScreen";
 import SideMenu from './sideMenu';
 //@BlueprintImportInsertion
 import MessengerNavigator from '../features/Messenger/navigator';
-import EmailAuthNavigator from '../features/EmailAuth/navigator';
 
 /**
  * new navigators can be imported here
@@ -18,7 +17,6 @@ const AppNavigator = {
     },
     //@BlueprintNavigationInsertion
 Messenger: { screen: MessengerNavigator },
-EmailAuth: { screen: EmailAuthNavigator },
 
     /** new navigators can be added here */
 };
