@@ -8,7 +8,6 @@ import SideMenu from './sideMenu';
 import Messaging8163Navigator from '../features/Messaging8163/navigator';
 import EmailAuth8162Navigator from '../features/EmailAuth8162/navigator';
 import CalendarView8161Navigator from '../features/CalendarView8161/navigator';
-import EmailAuth8159Navigator from '../features/EmailAuth8159/navigator';
 import CalendarView8158Navigator from '../features/CalendarView8158/navigator';
 import Messaging8157Navigator from '../features/Messaging8157/navigator';
 import EmailAuth8156Navigator from '../features/EmailAuth8156/navigator';
@@ -28,7 +27,6 @@ const AppNavigator = {
 Messaging8163: { screen: Messaging8163Navigator },
 EmailAuth8162: { screen: EmailAuth8162Navigator },
 CalendarView8161: { screen: CalendarView8161Navigator },
-EmailAuth8159: { screen: EmailAuth8159Navigator },
 CalendarView8158: { screen: CalendarView8158Navigator },
 Messaging8157: { screen: Messaging8157Navigator },
 EmailAuth8156: { screen: EmailAuth8156Navigator },
