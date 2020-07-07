@@ -9,7 +9,6 @@ import BlankScreen98184Navigator from '../features/BlankScreen98184/navigator';
 import Messaging8169Navigator from '../features/Messaging8169/navigator';
 import EmailAuth8168Navigator from '../features/EmailAuth8168/navigator';
 import Messaging8166Navigator from '../features/Messaging8166/navigator';
-import EmailAuth8165Navigator from '../features/EmailAuth8165/navigator';
 import CalendarView8164Navigator from '../features/CalendarView8164/navigator';
 import Messaging8163Navigator from '../features/Messaging8163/navigator';
 import EmailAuth8162Navigator from '../features/EmailAuth8162/navigator';
@@ -33,7 +32,6 @@ BlankScreen98184: { screen: BlankScreen98184Navigator },
 Messaging8169: { screen: Messaging8169Navigator },
 EmailAuth8168: { screen: EmailAuth8168Navigator },
 Messaging8166: { screen: Messaging8166Navigator },
-EmailAuth8165: { screen: EmailAuth8165Navigator },
 CalendarView8164: { screen: CalendarView8164Navigator },
 Messaging8163: { screen: Messaging8163Navigator },
 EmailAuth8162: { screen: EmailAuth8162Navigator },
